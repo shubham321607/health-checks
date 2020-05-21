@@ -1,1 +1,2 @@
-I am tryint to add new file to g]my get repo
+I am trying to add new file to my git repo
+Adding ne more line to this file
