@@ -1,3 +1,4 @@
 I am trying to add new file to my git repo
 Adding ne more line to this file
 Adding one more line for new commit
+Adding  4th line  for new commit
